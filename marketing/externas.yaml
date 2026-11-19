@@ -1,0 +1,25 @@
+# Skills de terceiros desta categoria. Campos: ver front-end/externas.yaml.
+
+- nome: copywriting
+  para-que: texto de página — home, landing, preço, título, chamada para ação
+  repositorio: https://github.com/coreyhaines31/marketingskills
+  pasta: skills/copywriting
+  licenca: MIT
+
+- nome: marketing-psychology
+  para-que: princípios de psicologia e vieses aplicados a marketing
+  repositorio: https://github.com/coreyhaines31/marketingskills
+  pasta: skills/marketing-psychology
+  licenca: MIT
+
+- nome: pricing
+  para-que: estratégia de preço — planos, pacotes, ancoragem, página de preços
+  repositorio: https://github.com/coreyhaines31/marketingskills
+  pasta: skills/pricing
+  licenca: MIT
+
+- nome: seo-audit
+  para-que: auditoria de SEO técnico e de conteúdo de um site
+  repositorio: https://github.com/coreyhaines31/marketingskills
+  pasta: skills/seo-audit
+  licenca: MIT

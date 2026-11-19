@@ -1,0 +1,7 @@
+# Skills de terceiros desta categoria. Campos: ver front-end/externas.yaml.
+
+- nome: supabase-postgres-best-practices
+  para-que: Postgres — queries, índices, schema, RLS e desempenho
+  repositorio: https://github.com/supabase/agent-skills
+  pasta: skills/supabase-postgres-best-practices
+  licenca: MIT

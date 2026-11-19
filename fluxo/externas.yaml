@@ -1,0 +1,25 @@
+# Skills de terceiros desta categoria. Campos: ver front-end/externas.yaml.
+
+- nome: gsd-core
+  para-que: GSD (Get Shit Done) — planeja o projeto em fases, executa com commits pequenos e verifica cada fase
+  repositorio: https://github.com/open-gsd/gsd-core
+  instalar: npx @opengsd/gsd-core@latest
+  licenca: MIT
+
+- nome: find-skills
+  para-que: procura e recomenda skills no ecossistema skills.sh
+  repositorio: https://github.com/vercel-labs/skills
+  pasta: skills/find-skills
+  licenca: MIT
+
+- nome: claude-md-improver
+  para-que: audita o CLAUDE.md e propõe correções pontuais
+  repositorio: https://github.com/anthropics/claude-plugins-official
+  pasta: plugins/claude-md-management/skills/claude-md-improver
+  licenca: Apache-2.0
+
+- nome: agent-md-refactor
+  para-que: divide CLAUDE.md/AGENTS.md inchado em arquivos por assunto
+  repositorio: https://github.com/softaworks/agent-toolkit
+  pasta: skills/agent-md-refactor
+  licenca: MIT

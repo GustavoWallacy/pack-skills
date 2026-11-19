@@ -1,0 +1,15 @@
+# Skills de terceiros desta categoria. Campos: ver front-end/externas.yaml.
+# As duas já vêm no template claude-start-project (o hook de segurança
+# depende delas). Listadas aqui para quem quiser instalar em outro projeto.
+
+- nome: security-and-hardening
+  para-que: preventiva — modelo de ameaça e regras ao escrever código sensível
+  repositorio: https://github.com/addyosmani/agent-skills
+  pasta: skills/security-and-hardening
+  licenca: MIT
+
+- nome: security-review
+  para-que: auditoria — revisa o diff seguindo o dado, só reporta o que é explorável
+  repositorio: https://github.com/getsentry/skills
+  pasta: skills/security-review
+  licenca: Apache-2.0

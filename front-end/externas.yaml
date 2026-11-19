@@ -1,0 +1,23 @@
+# Skills de terceiros desta categoria: aqui fica só o endereço.
+# A instalação busca a versão mais nova na origem.
+#
+# Campos:
+#   nome        nome da skill (pasta em .claude/skills/)
+#   para-que    uma linha
+#   repositorio repositório de origem no GitHub
+#   pasta       caminho da skill dentro do repositório de origem
+#   instalar    (no lugar de "pasta") comando oficial, quando o autor pede
+#               para não copiar os arquivos
+#   licenca     licença da origem
+
+- nome: frontend-design
+  para-que: direção visual própria para tela nova (tipografia, cor, layout), sem o visual genérico de IA
+  repositorio: https://github.com/anthropics/skills
+  pasta: skills/frontend-design
+  licenca: Apache-2.0
+
+- nome: ui-ux-pro-max
+  para-que: base de estilos, paletas, fontes e padrões de UX por tipo de produto e por stack
+  repositorio: https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+  pasta: .claude/skills/ui-ux-pro-max
+  licenca: MIT
