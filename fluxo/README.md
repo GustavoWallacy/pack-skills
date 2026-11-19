@@ -13,7 +13,7 @@ Pensar antes de construir, planejar, e manter o `CLAUDE.md` saudável.
 ## Instalar
 
 ```bash
-npx skills add GustavoWallacy/claude-skills --skill brainstorm -a claude-code
+npx skills add GustavoWallacy/pack-skills --skill brainstorm -a claude-code
 npx skills add vercel-labs/skills --skill find-skills -a claude-code
 npx skills add anthropics/claude-plugins-official --skill claude-md-improver -a claude-code
 npx skills add softaworks/agent-toolkit --skill agent-md-refactor -a claude-code

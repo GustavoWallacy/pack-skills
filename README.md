@@ -1,4 +1,4 @@
-# claude-skills
+# pack-skills
 
 As skills de Claude Code que eu mais uso, separadas por assunto. É a base
 de referência do template
@@ -24,7 +24,7 @@ Precisa de [Node.js](https://nodejs.org). Na raiz do projeto:
 
 ```bash
 # skill que está aqui (📁)
-npx skills add GustavoWallacy/claude-skills --skill brainstorm -a claude-code
+npx skills add GustavoWallacy/pack-skills --skill brainstorm -a claude-code
 
 # skill de terceiros (🔗): o comando de cada uma está no README da categoria
 npx skills add coreyhaines31/marketingskills --skill copywriting -a claude-code

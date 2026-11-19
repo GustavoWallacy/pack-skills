@@ -14,7 +14,7 @@ SQL, schema, desempenho e métricas tiradas do banco.
 ## Instalar
 
 ```bash
-npx skills add GustavoWallacy/claude-skills --skill metrics-analyst -a claude-code
+npx skills add GustavoWallacy/pack-skills --skill metrics-analyst -a claude-code
 npx skills add supabase/agent-skills --skill supabase-postgres-best-practices -a claude-code
 ```
 

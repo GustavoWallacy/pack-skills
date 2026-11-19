@@ -12,8 +12,8 @@ Telas, dashboards e direção visual.
 ## Instalar
 
 ```bash
-npx skills add GustavoWallacy/claude-skills --skill dashboard-bi -a claude-code
-npx skills add GustavoWallacy/claude-skills --skill apple-hig-designer -a claude-code
+npx skills add GustavoWallacy/pack-skills --skill dashboard-bi -a claude-code
+npx skills add GustavoWallacy/pack-skills --skill apple-hig-designer -a claude-code
 npx skills add anthropics/skills --skill frontend-design -a claude-code
 npx skills add nextlevelbuilder/ui-ux-pro-max-skill --skill ui-ux-pro-max -a claude-code
 ```
